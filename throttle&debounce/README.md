@@ -1,0 +1,1 @@
+具体用法见[这里](https://github.com/yan-ck/FE-K-MAP/blob/master/js-k/throttle%26%26debounce/throttle%26%26debounce.md)
