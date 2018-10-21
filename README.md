@@ -7,5 +7,6 @@
 
 ## 目录
 
-* [url相关的函数](https://github.com/yan-ck/utilFn-FE/blob/master/urlFn/README.md)
-* [Date(日期)相关的函数](https://github.com/yan-ck/utilFn-FE/blob/master/DateFn/README.md)
+* [url相关的函数](./urlFn/README.md)
+* [Date(日期)相关的函数](./DateFn/README.md)
+* [函数节流／函数防抖](./throttle&debounce/README.md)
